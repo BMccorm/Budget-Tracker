@@ -1,63 +1,52 @@
-# Unit 18 PWA Homework: Online/Offline Budget Trackers
-
-Add functionality to our existing Budget Tracker application to allow for offline access and functionality.
-
-The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
-
-Offline Functionality:
-
-  * Enter deposits offline
-
-  * Enter expenses offline
-
-When brought back online:
-
-  * Offline entries should be added to tracker.
-
-## User Story
-AS AN avid traveller
-I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
-SO THAT my account balance is accurate when I am traveling
-
-## Business Context
-
-Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
 
 
-## Acceptance Criteria
-GIVEN a user is on Budget App without an internet connection
-WHEN the user inputs a withdrawal or deposit
-THEN that will be shown on the page, and added to their transaction history when their connection is back online.
+![GitHub repo size](https://img.shields.io/github/repo-size/BMcCorm/fitness-tracker)
+![GitHub stars](https://img.shields.io/github/stars/BMcCorm/fitness-tracker?style=social)
+![GitHub forks](https://img.shields.io/github/forks/BMcCorm/fitness-tracker?style=social)
 
-- - -
+# fitness-tracker
+Created by [BMcCorm](https://github.com/BMcCorm) 
 
-## Commit Early and Often
+![Github icon image](https://avatars1.githubusercontent.com/u/64443618?v=4)
 
-* One of the most important skills to master as a web developer is version control. Building the habit of committing via Git is important for two reasons:
+## Table of Contents
+- [Description](#Description)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Contributing](#Contributors)
+- [Testing](#Testing)
+- [License](#License)
+- [Questions](#Questions)
 
-1. Your commit history is a signal to employers that you are actively working on projects and learning new skills
+## Description
+This Budget Tracker application allows users to track withdrawls and deposits with or without a data/internet connection. This app uses service-worker and mongoDB.
+![screenshot]("public/assets/images/icons/budget_tracker_screenshot.png")
 
-2. Your commit history allows you to revert your code base in the event that you need to return to a previous state
+## Installation
+This user-friendly interface does not require installation. It's hosted on Heroku and can be found [here.](https://budget-tracker-bm.herokuapp.com/)
 
-* Follow these guidelines for committing:
+## Usage
+The user can add expenses and deposits to their budget with or without a connection. Take the site offline and enter a transaction. The updated budget will also be populated when back online.
 
-  * Make single purpose commits for related changes to ensure a clean, manageable history. If you are fixing two issues, make two commits
+## Interested in contributing? Here's how:
 
-  * Write descriptive, meaningful commit messages so that you and anyone else looking at your repository can easily understand its history
+1. Fork this repository
+2. Create a branch: git checkout -b "create_a_branch_name"
+3. Make and commit your changes: git commit -m "add your message here"
+4. Push to the master branch: git push origin "branch_name"
+5. Create the pull request
 
-  * Don't commit half done work, for the sake of your collaborators (and your future self!)
+Additional information on creating a pull request can be found [here](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request). 
 
-  * Test your application before you commit to ensure functionality at every step in the development process
+## Contributors
+None at this time.
 
-* We would like you to have well over 200 commits by graduation, so commit early and often!
+## Testing
+None at this time.
 
-* Deploy your application with [Heroku and MongoDB Atlas.](../04-Supplemental/MongoAtlas-Deploy.md)
+## License
+None at this time.
 
-## Submission on BCS
-
-* You are required to submit the following:
-
-  * the URL to the deployed application
-
-  * the URL to the Github repository
-
+## Questions
+For more information, please email me at BrielleMcCormick@gmail.com
+The link for this project can be found [here.](https://BMcCorm.github.io/fitness-tracker/)
