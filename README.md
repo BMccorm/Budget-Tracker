@@ -25,7 +25,7 @@ This Budget Tracker application allows users to track withdrawls and deposits wi
 This user-friendly interface does not require installation. It's hosted on Heroku and can be found [here.](https://budget-tracker-bm.herokuapp.com/)
 
 ## Usage
-The user can add expenses and deposits to their budget with or without a connection. Take the site offline and enter a transaction. The updated budget will also be populated when back online.
+The user can add expenses and deposits to their budget with or without a connection. Take the site offline and enter a transaction. The updated budget will also be populated when back online. <br>
 ![screenshot](./public/assets/images/icons/budget_tracker_screenshot.png)
 ## Interested in contributing? Here's how:
 
