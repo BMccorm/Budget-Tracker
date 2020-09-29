@@ -1,10 +1,10 @@
 
 
-![GitHub repo size](https://img.shields.io/github/repo-size/BMcCorm/fitness-tracker)
-![GitHub stars](https://img.shields.io/github/stars/BMcCorm/fitness-tracker?style=social)
-![GitHub forks](https://img.shields.io/github/forks/BMcCorm/fitness-tracker?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/BMcCorm/Budget-Tracker)
+![GitHub stars](https://img.shields.io/github/stars/BMcCorm/Budget-Tracker?style=social)
+![GitHub forks](https://img.shields.io/github/forks/BMcCorm/Budget-Tracker?style=social)
 
-# fitness-tracker
+# Budget-Tracker
 Created by [BMcCorm](https://github.com/BMcCorm) 
 
 ![Github icon image](https://avatars1.githubusercontent.com/u/64443618?v=4)
@@ -20,7 +20,6 @@ Created by [BMcCorm](https://github.com/BMcCorm)
 
 ## Description
 This Budget Tracker application allows users to track withdrawls and deposits with or without a data/internet connection. This app uses service-worker and mongoDB.
-![screenshot]("public/assets/images/icons/budget_tracker_screenshot.png")
 
 ## Installation
 This user-friendly interface does not require installation. It's hosted on Heroku and can be found [here.](https://budget-tracker-bm.herokuapp.com/)
@@ -49,4 +48,5 @@ None at this time.
 
 ## Questions
 For more information, please email me at BrielleMcCormick@gmail.com
-The link for this project can be found [here.](https://BMcCorm.github.io/fitness-tracker/)
+The link for this project can be found [here.](https://BMcCorm.github.io/Budget-Tracker/)
+
