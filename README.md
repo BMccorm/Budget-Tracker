@@ -26,7 +26,7 @@ This user-friendly interface does not require installation. It's hosted on Herok
 
 ## Usage
 The user can add expenses and deposits to their budget with or without a connection. Take the site offline and enter a transaction. The updated budget will also be populated when back online.
-
+![screenshot](./public/assets/images/icons/budget_tracker_screenshot.png)
 ## Interested in contributing? Here's how:
 
 1. Fork this repository
